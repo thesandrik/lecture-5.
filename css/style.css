@@ -155,3 +155,45 @@ footer{
 	margin-top: 150px;
 }
 
+.footer-logo {
+	margin-left: 150px;
+	padding-top: 1010px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	display: inline;
+}
+.footer-menu {
+	
+	font-size: 8px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 150px;
+	margin-bottom: 50px;
+	width: 50px;
+	height: 30px;
+	display: inline-block;
+}
+
+.pototext1 {
+	margin-top: -200px;
+	margin-bottom: 75px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.pototext2 {
+	margin-top: -125px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+.pototext3 {
+	margin-top: -125px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+.bridgetext {
+	float: bottom;
+}
